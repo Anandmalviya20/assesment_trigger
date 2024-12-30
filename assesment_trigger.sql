@@ -27,5 +27,5 @@ begin
   insert into employees(employee_id,name,position,salary,hire_date) values (employee_id,e_name,e_position,e_salary,e_hire_date);
   end //
   delimiter ;
- drop procedure add_employee;        
+       
      
